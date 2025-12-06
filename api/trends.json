@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-06T14:34:56.659797+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2025-12-06T15:22:59.021664+08:00",
+  "total_titles_processed": 1061,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普世界杯抽签搞抽象",
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             5,
-            22
+            22,
+            15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时22分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -46,6 +47,36 @@
           "time_info": "[11时13分 ~ 11时14分]"
         },
         {
+          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
+          "url": "https://flash.jin10.com/detail/20251206105234128800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            13,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 15时22分]"
+        },
+        {
+          "title": "特朗普提议给美式橄榄球改名",
+          "url": "https://wallstreetcn.com/livenews/3016211",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13,
+            16,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时14分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普警告高市早苗别插手台海",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AD%A6%E5%91%8A%E9%AB%98%E5%B8%82%E6%97%A9%E8%8B%97%E5%88%AB%E6%8F%92%E6%89%8B%E5%8F%B0%E6%B5%B7%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -58,18 +89,15 @@
           "time_info": "[12时28分 ~ 14时34分]"
         },
         {
-          "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
-          "url": "https://flash.jin10.com/detail/20251206105234128800",
-          "source": "金十数据",
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
           "ranks": [
-            1,
-            7,
-            13,
-            19
+            5
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时34分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -82,20 +110,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时21分 ~ 07时23分]"
-        },
-        {
-          "title": "特朗普提议给美式橄榄球改名",
-          "url": "https://wallstreetcn.com/livenews/3016211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时14分 ~ 14时34分]"
         },
         {
           "title": "特朗普首次会见辛鲍姆 探讨美加墨世界杯及关税问题",
@@ -117,11 +131,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            7
+            7,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时22分]"
         },
         {
           "title": "美国总统特朗普抵达2026年世界杯抽签仪式现场，称这是“重要一天”。",
@@ -135,6 +150,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时24分 ~ 03时21分]"
+        },
+        {
+          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
+          "url": "https://wallstreetcn.com/livenews/3016225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时24分 ~ 15时22分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -198,18 +226,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时23分]"
-        },
-        {
-          "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
-          "url": "https://wallstreetcn.com/livenews/3016225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时24分 ~ 14时34分]"
         },
         {
           "title": "加拿大总理办公室：卡尼先会见了墨西哥总统谢因鲍姆，接下来将与特朗普会面。",
@@ -485,7 +501,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         },
@@ -516,8 +532,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时49分 ~ 14时34分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 15时22分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -530,8 +546,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -545,8 +561,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[07时23分 ~ 14时34分]"
+          "appearance_count": 8,
+          "time_info": "[07时23分 ~ 15时22分]"
         },
         {
           "title": "美股指小幅收高，纳指四连涨，白银盘中新高，黄金与比特币承压",
@@ -759,11 +775,12 @@
           "ranks": [
             13,
             6,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时34分]"
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时22分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
@@ -783,6 +800,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
+          "url": "https://wallstreetcn.com/articles/3760830",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时28分 ~ 15时22分]"
+        },
+        {
           "title": "ChatGPT产品负责人回应广告传闻",
           "url": "https://flash.jin10.com/detail/20251206101132584800",
           "source": "金十数据",
@@ -795,18 +824,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时14分 ~ 14时34分]"
-        },
-        {
-          "title": "SpaceX估值超越OpenAI，或翻倍至8000亿美元，计划明年下半年上市",
-          "url": "https://wallstreetcn.com/articles/3760830",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时28分 ~ 14时34分]"
         },
         {
           "title": "SpaceX估值超越OpenAI，成为美国第一大非上市公司",
@@ -943,7 +960,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
