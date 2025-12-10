@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-10T13:27:06.622109+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2025-12-10T14:40:03.981257+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "胡锡进：特朗普对H200放行，显然受到了两大压力",
@@ -20,6 +20,17 @@
           "time_info": "[00时33分 ~ 07时24分]"
         },
         {
+          "title": "特朗普现在很焦虑",
+          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时40分]"
+        },
+        {
           "title": "特朗普：降息是新美联储主席的试金石，可能通过调整关税降低部分商品价格",
           "url": "https://wallstreetcn.com/articles/3761018",
           "source": "华尔街见闻",
@@ -30,8 +41,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时33分 ~ 13时27分]"
+          "appearance_count": 15,
+          "time_info": "[00时33分 ~ 14时40分]"
         },
         {
           "title": "特朗普谈俄乌冲突：现在是泽连斯基“开始接受现实”的时候了",
@@ -44,17 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时33分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普现在很焦虑",
-          "url": "https://news.ifeng.com/c/8oxjmaqLgB3",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时27分]"
         },
         {
           "title": "环球网：特朗普宣布允许英伟达向中国出售H200芯片",
@@ -108,6 +108,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时45分 ~ 09时58分]"
+        },
+        {
+          "title": "特朗普：泰柬又打起来了，我得打个电话",
+          "url": "https://news.ifeng.com/c/8oyCMciyCox",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
         },
         {
           "title": "采访中特朗普突然发飙怒斥记者",
@@ -179,6 +190,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
+          "url": "https://www.toutiao.com/trending/7581084674962473014/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时37分 ~ 14时40分]"
         },
         {
           "title": "泽连斯基回应特朗普：乌方愿举行选举",
@@ -254,6 +278,30 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 14时40分]"
+        },
+        {
+          "title": "邵永灵：特朗普正用国家权力变现",
+          "url": "https://www.toutiao.com/trending/7582064656005467699/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时26分 ~ 14时40分]"
+        },
+        {
           "title": "泽连斯基回应特朗普：可在60至90天做好选举准备",
           "url": "https://news.ifeng.com/c/8oxUGggjWaR",
           "source": "凤凰网",
@@ -263,18 +311,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时30分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普称泽连斯基赚走拜登3500亿美元",
-          "url": "https://www.toutiao.com/trending/7581084674962473014/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时37分 ~ 13时27分]"
         },
         {
           "title": "特朗普政府：维持大豆库存等预期不变",
@@ -313,6 +349,17 @@
           "time_info": "[06时24分 ~ 07时24分]"
         },
         {
+          "title": "特朗普厕所门口受访被人推门撞到",
+          "url": "https://www.toutiao.com/trending/7582097221663936046/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时39分 ~ 14时40分]"
+        },
+        {
           "title": "欧盟重罚X平台遭特朗普抨击",
           "url": "https://www.douyin.com/hot/2331490",
           "source": "抖音",
@@ -323,28 +370,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时45分 ~ 03时19分]"
-        },
-        {
-          "title": "邵永灵：特朗普正用国家权力变现",
-          "url": "https://www.toutiao.com/trending/7582064656005467699/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "特朗普：泽连斯基拿了千亿却丢25%国土",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E6%8B%BF%E4%BA%86%E5%8D%83%E4%BA%BF%E5%8D%B4%E4%B8%A225%25%E5%9B%BD%E5%9C%9F",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
         },
         {
           "title": "特朗普：给美国经济表现打“A+++++”",
@@ -573,6 +598,19 @@
       "match_count": 14,
       "titles": [
         {
+          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
+          "url": "https://www.cls.cn/detail/2224722",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 14时40分]"
+        },
+        {
           "title": "英伟达盘前冲高2%后回落 美股三大期指涨跌不一 | 今夜看点",
           "url": "https://www.cls.cn/detail/2224567",
           "source": "财联社热门",
@@ -584,19 +622,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时33分 ~ 09时58分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 摩根大通成本预警施压大盘",
-          "url": "https://www.cls.cn/detail/2224722",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 13时27分]"
         },
         {
           "title": "美利率决议前市场谨慎，劳动力数据提振美股上涨，现货白银突破60美元创新高，加密货币转涨",
@@ -860,8 +885,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时40分]"
         },
         {
           "title": "谷歌云：推出由Gemini驱动的编码智能体AlphaEvolve，可用于设计高级算法，现已开启私密预览。",
@@ -933,8 +958,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时58分 ~ 13时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时58分 ~ 14时40分]"
         },
         {
           "title": "美债价格在美国职位空缺数据发布后显著下挫",
