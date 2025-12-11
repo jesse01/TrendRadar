@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-11T21:43:20.286457+08:00",
-  "total_titles_processed": 2001,
+  "generated_at": "2025-12-11T22:27:09.041012+08:00",
+  "total_titles_processed": 2090,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "指望特朗普出面给日本帮腔，中国就会让步？日学者：大错特错",
@@ -90,6 +90,20 @@
           "time_info": "[17时31分 ~ 21时43分]"
         },
         {
+          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时31分 ~ 22时27分]"
+        },
+        {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
           "source": "抖音",
@@ -107,7 +121,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -157,17 +171,15 @@
           "time_info": "09时59分"
         },
         {
-          "title": "盘点｜从研究机构到艺术中心，这是特朗普的“冠名全家桶”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32144570",
-          "source": "澎湃新闻",
+          "title": "印度总理莫迪：与美国总统特朗普通话，讨论双边关系进展。",
+          "url": "https://flash.jin10.com/detail/20251211220429597800",
+          "source": "金十数据",
           "ranks": [
-            19,
-            18,
-            16
+            5
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时31分 ~ 21时43分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "华纳收购案再迎变数 特朗普称CNN必须被出售",
@@ -204,6 +216,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时01分 ~ 06时25分]"
+        },
+        {
+          "title": "特朗普为何突然搞“西半球优先”",
+          "url": "https://www.toutiao.com/trending/7581978972871917594/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时27分]"
+        },
+        {
+          "title": "美英法德领导人就乌克兰问题通话，特朗普：言辞相当激烈",
+          "url": "https://news.ifeng.com/c/8p0EFlr6GTe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时26分 ~ 22时27分]"
         },
         {
           "title": "特朗普向哥伦比亚总统发出威胁：“他将是下一个”",
@@ -339,6 +374,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "印度总理莫迪：与美国总统特朗普讨论了地区和国际局势的发展。",
+          "url": "https://wallstreetcn.com/livenews/3019280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "美联储降息后 特朗普发声",
@@ -660,17 +706,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "特朗普为何突然搞“西半球优先”",
-          "url": "https://www.toutiao.com/trending/7581978972871917594/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
           "title": "特朗普：泽连斯基是顶级推销员，他什么都能卖",
           "url": "https://m.thepaper.cn/newsDetail_forward_32144595",
           "source": "澎湃新闻",
@@ -795,7 +830,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美联储降息，鲍威尔言论比预期温和，美股三大指数收涨，白银再创新高，原油V形反转",
@@ -805,8 +840,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时59分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时59分 ~ 22时27分]"
         },
         {
           "title": "美股收盘：标普500逼近历史新高 市场对未来更多宽松寄予希望",
@@ -840,7 +875,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -983,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3019275",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
         },
         {
           "title": "金十图示：2025年12月10日（周三）美股热门股票行情一览（美股盘中）",
@@ -1328,6 +1374,67 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251211220333965800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "迪士尼：将成为OpenAI的客户，利用其API构建产品、工具和体验服务，包括用于Disney+的项目，并为员工部署ChatGPT。",
+          "url": "https://flash.jin10.com/detail/20251211220301017800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "迪士尼与OpenAI达成内容许可与投资协议",
+          "url": "https://wallstreetcn.com/livenews/3019279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        },
+        {
+          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
+          "url": "https://flash.jin10.com/detail/20251211064706062800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
+        },
+        {
+          "title": "华特迪士尼公司与OpenAI达成具有里程碑意义的协议，迪士尼将对OpenAI进行10亿美元股权投资。",
+          "url": "https://flash.jin10.com/detail/20251211220041315800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 4,
       "titles": [
@@ -1432,23 +1539,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时55分 ~ 20时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
-          "url": "https://flash.jin10.com/detail/20251211064706062800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
         }
       ]
     }
