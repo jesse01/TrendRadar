@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T18:31:20.570836+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2025-12-16T19:25:23.229228+08:00",
+  "total_titles_processed": 1767,
   "failed_sources": [],
   "trends": [
     {
@@ -40,8 +40,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时59分 ~ 18时31分]"
+          "appearance_count": 11,
+          "time_info": "[09时59分 ~ 19时25分]"
         },
         {
           "title": "日媒爆特朗普警告高市早苗别添乱",
@@ -78,11 +78,23 @@
             13,
             14,
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时40分 ~ 18时31分]"
+          "appearance_count": 10,
+          "time_info": "[11时40分 ~ 19时25分]"
+        },
+        {
+          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
+          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时31分 ~ 19时25分]"
         },
         {
           "title": "曝特朗普曾警告高市早苗别来添乱",
@@ -112,17 +124,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时59分 ~ 15时28分]"
-        },
-        {
-          "title": "“我的漂亮话呢？”特朗普对BBC提起100亿美元诉讼",
-          "url": "https://news.ifeng.com/c/8p8IOWOQWV5",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 18时31分]"
         },
         {
           "title": "特朗普正式起诉BBC 共索赔100亿美元",
@@ -425,7 +426,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时31分"
         },
@@ -792,7 +793,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
@@ -849,6 +850,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时25分"
         },
         {
           "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
