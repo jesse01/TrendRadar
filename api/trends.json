@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T18:28:01.106614+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-26T19:23:19.394664+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时23分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -95,6 +95,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时27分 ~ 19时23分]"
+        },
+        {
           "title": "特朗普：美国对尼日利亚境内的伊斯兰国恐怖分子发动致命打击",
           "url": "https://wallstreetcn.com/livenews/3026867",
           "source": "华尔街见闻-快讯",
@@ -119,17 +130,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时36分 ~ 06时24分]"
-        },
-        {
-          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
-          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时27分 ~ 18时28分]"
         },
         {
           "title": "乌克兰总统泽连斯基：今天与美国特使威特科夫、特朗普高级顾问库什纳进行了通话。",
@@ -175,7 +175,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
@@ -274,8 +274,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时59分 ~ 18时28分]"
+          "appearance_count": 12,
+          "time_info": "[09时59分 ~ 19时23分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -461,7 +461,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时28分"
         },
