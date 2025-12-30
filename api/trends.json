@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T15:27:58.808922+08:00",
-  "total_titles_processed": 1228,
+  "generated_at": "2025-12-30T16:35:42.456457+08:00",
+  "total_titles_processed": 1313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 94,
+      "match_count": 98,
       "titles": [
         {
           "title": "普京一个电话后，特朗普怒了",
@@ -31,6 +31,19 @@
           "time_info": "[02时37分 ~ 07时24分]"
         },
         {
+          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
+          "url": "https://wallstreetcn.com/articles/3762268",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时00分 ~ 16时35分]"
+        },
+        {
           "title": "特朗普暗示泽连斯基：为了不再失去领土，还是尽快达成协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32272421",
           "source": "澎湃新闻",
@@ -46,16 +59,17 @@
           "time_info": "[00时32分 ~ 11时44分]"
         },
         {
-          "title": "俄罗斯称乌91架无人机袭击普京官邸，泽连斯基否认，特朗普“很生气”",
-          "url": "https://wallstreetcn.com/articles/3762268",
+          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
+          "url": "https://wallstreetcn.com/articles/3762270",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            10,
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 15时27分]"
+          "appearance_count": 8,
+          "time_info": "[11时43分 ~ 16时35分]"
         },
         {
           "title": "得知普京官邸遭袭 特朗普：很生气",
@@ -81,16 +95,16 @@
           "time_info": "[11时43分 ~ 15时27分]"
         },
         {
-          "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
-          "url": "https://wallstreetcn.com/articles/3762270",
-          "source": "华尔街见闻",
+          "title": "普京称官邸遭袭 特朗普回应",
+          "url": "https://www.douyin.com/hot/2351475",
+          "source": "抖音",
           "ranks": [
-            10,
-            9
+            1,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时43分 ~ 15时27分]"
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 16时35分]"
         },
         {
           "title": "特朗普：普京说他被袭击了 我很生气",
@@ -102,6 +116,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时00分 ~ 10时01分]"
+        },
+        {
+          "title": "外交部回应特朗普涉中国军演言论",
+          "url": "https://news.ifeng.com/c/8pVVKejSSSi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：伊朗可能正在美国轰炸过的地点之外重建其核计划。",
@@ -126,18 +151,6 @@
           "time_info": "00时32分"
         },
         {
-          "title": "普京称官邸遭袭 特朗普回应",
-          "url": "https://www.douyin.com/hot/2351475",
-          "source": "抖音",
-          "ranks": [
-            1,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时28分 ~ 15时27分]"
-        },
-        {
           "title": "美国总统特朗普：我们对约旦河西岸定居者暴力问题的看法并不100%完全一致。",
           "url": "https://flash.jin10.com/detail/20251230045657980800",
           "source": "金十数据",
@@ -147,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "美对委境内发动军事打击，特朗普：他们装毒品的码头区不存在了",
+          "url": "https://news.ifeng.com/c/8pVTEbBDKdx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "美国总统特朗普：如果哈马斯不解除武装，必将付出代价。",
@@ -632,6 +656,18 @@
           "time_info": "[01时23分 ~ 03时20分]"
         },
         {
+          "title": "得知普京官邸遭袭，特朗普：我很生气！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时39分 ~ 16时35分]"
+        },
+        {
           "title": "美国总统特朗普：但哈马斯必须先解除武装。",
           "url": "https://flash.jin10.com/detail/20251230022839740800",
           "source": "金十数据",
@@ -791,17 +827,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "得知普京官邸遭袭，特朗普：我很生气！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32280626",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时39分 ~ 15时27分]"
-        },
-        {
           "title": "美国总统特朗普：我们将与内塔尼亚胡讨论五个主要议题。",
           "url": "https://flash.jin10.com/detail/20251230023402802800",
           "source": "金十数据",
@@ -908,6 +933,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "俄称乌无人机袭击普京官邸，扎哈罗娃：泽连斯基“打脸”特朗普",
+          "url": "https://news.ifeng.com/c/8pVV1ZtFrwe",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：在午餐期间正式宣布，决定将以色列勋章授予美国总统特朗普。",
           "url": "https://flash.jin10.com/detail/20251230045508229800",
           "source": "金十数据",
@@ -928,6 +964,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时23分"
+        },
+        {
+          "title": "泽连斯基希望美国保护乌克兰50年，特朗普：将予以考虑",
+          "url": "https://news.ifeng.com/c/8pV90njbrp6",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "以色列总理内塔尼亚胡：与美国总统特朗普的会晤非常富有成效。",
@@ -1152,8 +1199,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时00分 ~ 15时27分]"
+          "appearance_count": 10,
+          "time_info": "[10时00分 ~ 16时35分]"
         },
         {
           "title": "美股指集体低开，纳指跌超0.7%，现货黄金单日跌超100美元，白银暴跌8%，伦铜逼近13000美元",
@@ -1226,6 +1273,18 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
+          "url": "https://wallstreetcn.com/articles/3762263",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时27分 ~ 16时35分]"
+        },
+        {
           "title": "美股七巨头收盘播报｜特斯拉收跌3.27%，英伟达跌1.21%",
           "url": "https://wallstreetcn.com/livenews/3028341",
           "source": "华尔街见闻-快讯",
@@ -1236,17 +1295,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "无人看空！华尔街一致预期2026美股继续涨，资深策略师对共识感到担忧",
-          "url": "https://wallstreetcn.com/articles/3762263",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时27分"
         },
         {
           "title": "航空业ETF收跌将近1.3%，领跌美股行业ETF",
@@ -1296,7 +1344,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金价跌至每盎司 4346 美元，白银跌幅一度逼近 9%，为何国际金、银价格会大幅下跌？",
@@ -1308,8 +1356,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时35分]"
         },
         {
           "title": "金价暴跌店员称跌幅首次见",
@@ -1318,11 +1366,23 @@
           "ranks": [
             8,
             15,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 15时27分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 16时35分]"
+        },
+        {
+          "title": "金十图示：2025年12月30日（周二）上海金午盘价为980.74元/克，较国际金价(983.6元/克)，低2.86元/克",
+          "url": "https://flash.jin10.com/detail/20251230155139232800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时35分"
         },
         {
           "title": "分析师：金价从历史高位回落 流动性稀薄正放大回调走势",
@@ -1418,8 +1478,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时32分 ~ 15时27分]"
+          "appearance_count": 19,
+          "time_info": "[00时32分 ~ 16时35分]"
         }
       ]
     },
