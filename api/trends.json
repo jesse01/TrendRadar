@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T17:29:53.416868+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2025-12-31T18:27:46.871208+08:00",
+  "total_titles_processed": 1487,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -238,6 +238,17 @@
           "time_info": "00时34分"
         },
         {
+          "title": "李在明展示特朗普送的白宫金钥匙(图)",
+          "url": "https://news.ifeng.com/c/8pWu87Onyz4",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
           "title": "美国法庭裁决指出，特朗普政府关于消费者金融保护局（CFPB）拨款存在法律障碍的说法是企图“扼杀该机构的透明化尝试”。",
           "url": "https://flash.jin10.com/detail/20251230232531255800",
           "source": "金十数据",
@@ -296,8 +307,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[07时24分 ~ 17时29分]"
+          "appearance_count": 12,
+          "time_info": "[07时24分 ~ 18时27分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -481,7 +492,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
@@ -503,9 +514,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "内塔尼亚胡喊话伊朗：不要犯这样的错误",
+          "url": "https://news.ifeng.com/c/8pXFMyQDXcJ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "伊朗外长：伊朗不会放弃和平核技术",
