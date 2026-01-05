@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-05T21:45:25.041502+08:00",
-  "total_titles_processed": 1734,
+  "generated_at": "2026-01-05T22:29:53.450348+08:00",
+  "total_titles_processed": 1819,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 80,
+      "match_count": 85,
       "titles": [
         {
           "title": "上周六新建账号、本周五下注“马杜罗被抓”、周日爆赚1242%--Polymarket又见“特朗普内幕交易”？",
@@ -30,8 +30,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 21时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时29分]"
         },
         {
           "title": "开发委内瑞拉“全球第一的原油储备”？特朗普“理想很丰满”，但“现实很骨感”",
@@ -62,11 +62,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时18分 ~ 21时45分]"
+          "appearance_count": 12,
+          "time_info": "[12时18分 ~ 22时29分]"
         },
         {
           "title": "特朗普宣布美国接管委内瑞拉，将让美石油巨头进入委内瑞拉，意味着什么？委内瑞拉接下来将面临哪些危机？",
@@ -79,8 +80,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时18分 ~ 21时45分]"
+          "appearance_count": 11,
+          "time_info": "[12时18分 ~ 22时29分]"
         },
         {
           "title": "特朗普威胁古巴哥伦比亚",
@@ -106,6 +107,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时31分 ~ 12时19分]"
+        },
+        {
+          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
+          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 22时29分]"
         },
         {
           "title": "特朗普威胁委内瑞拉代总统：若不配合美国 将付出更惨痛代价",
@@ -163,18 +176,6 @@
           "time_info": "[00时31分 ~ 13时38分]"
         },
         {
-          "title": "特朗普接连向6国发出威胁，哥总统强硬表态",
-          "url": "https://news.ifeng.com/c/8pfcK5vNmj2",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 21时45分]"
-        },
-        {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
           "url": "https://www.toutiao.com/trending/7591783882828431398/",
           "source": "今日头条",
@@ -182,11 +183,12 @@
             5,
             1,
             2,
-            8
+            8,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时38分 ~ 21时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时38分 ~ 22时29分]"
         },
         {
           "title": "如何看待特朗普每天服用过量阿司匹林",
@@ -267,6 +269,21 @@
           "time_info": "[16时40分 ~ 18时32分]"
         },
         {
+          "title": "委内瑞拉代总统喊话特朗普",
+          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            6,
+            13,
+            14,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时40分 ~ 22时29分]"
+        },
+        {
           "title": "美国“闪击”委内瑞拉：特朗普称将“管理”委内瑞拉直至实施“安全”过渡，深度介入石油产业",
           "url": "https://wallstreetcn.com/articles/3762484",
           "source": "华尔街见闻",
@@ -311,27 +328,13 @@
           "time_info": "[16时40分 ~ 17时38分]"
         },
         {
-          "title": "委内瑞拉代总统喊话特朗普",
-          "url": "https://www.baidu.com/s?wd=%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E4%BB%A3%E6%80%BB%E7%BB%9F%E5%96%8A%E8%AF%9D%E7%89%B9%E6%9C%97%E6%99%AE",
-          "source": "百度热搜",
-          "ranks": [
-            23,
-            6,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时40分 ~ 21时45分]"
-        },
-        {
           "title": "哥伦比亚债券下跌，比索跌1%，此前美国总统特朗普威胁对哥伦比亚动武。",
           "url": "https://flash.jin10.com/detail/20260105213911472800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         },
@@ -398,6 +401,39 @@
           "time_info": "19时25分"
         },
         {
+          "title": "墨西哥总统辛鲍姆：目前不打算与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260105222449591800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
+          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时32分 ~ 22时29分]"
+        },
+        {
+          "title": "特朗普再对印度发出“加税”威胁",
+          "url": "https://wallstreetcn.com/livenews/3030935",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "好莱坞明星入籍法国，特朗普发帖讽刺，本人回击",
           "url": "https://news.ifeng.com/c/8peoOMfJqxB",
           "source": "凤凰网",
@@ -448,17 +484,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时29分 ~ 06时25分]"
-        },
-        {
-          "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
-          "url": "https://news.ifeng.com/c/8pfZjM0LgjM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 21时45分]"
         },
         {
           "title": "欧盟发言人：欧盟注意到特朗普关于格陵兰岛的言论。 仍与格陵兰和丹麦站在一起。",
@@ -546,6 +571,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时25分 ~ 21时45分]"
+        },
+        {
+          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
+          "url": "https://www.cls.cn/detail/2248057",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时56分 ~ 22时29分]"
         },
         {
           "title": "俄罗斯联邦安全委员会副主席梅德韦杰夫：特朗普在委内瑞拉的行为虽属非法，但符合其一贯捍卫美国利益的作风。",
@@ -656,15 +692,16 @@
           "time_info": "[17时38分 ~ 18时32分]"
         },
         {
-          "title": "下一个打击目标？特朗普威胁对哥伦比亚动武 哥方强烈驳斥",
-          "url": "https://www.cls.cn/detail/2248057",
-          "source": "财联社热门",
+          "title": "特朗普向多个国家发出威胁",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时56分 ~ 21时45分]"
+          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "特朗普称美国已“掌控”委内瑞拉",
@@ -849,17 +886,6 @@
           "time_info": "10时12分"
         },
         {
-          "title": "特朗普向多个国家发出威胁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%91%E5%A4%9A%E4%B8%AA%E5%9B%BD%E5%AE%B6%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
           "title": "特朗普称不相信乌克兰曾袭击普京住所",
           "url": "https://flash.jin10.com/detail/20260105094045584800",
           "source": "金十数据",
@@ -893,6 +919,17 @@
           "time_info": "17时38分"
         },
         {
+          "title": "下一站格陵兰？特朗普欲复制“委内瑞拉模式”",
+          "url": "https://flash.jin10.com/detail/20260105221222708800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "特朗普威胁多国",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%A8%81%E8%83%81%E5%A4%9A%E5%9B%BD%23&t=31&band_rank=15&Refer=top",
           "source": "微博",
@@ -913,6 +950,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "美国总统特朗普：我们已征收并将继续征收超过6000亿美元的关税，但假新闻媒体拒绝谈论此事，因为他们憎恶且不尊重我们的国家，并企图干预即将由美国最高法院作出的重要关税决策。",
+          "url": "https://flash.jin10.com/detail/20260105220821106800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "【中国是否会继续进口委内瑞拉石油？外交部回应】1月5日，外交部发言人林剑主持例行记者会。西班牙《ABC报》记者提问，中方是否与委内瑞拉代理总统罗德里格斯进行过接触？此外，美国总统特朗普已表示美国将加大对委内瑞拉石油行业的投资力度，中国是否会继续进口委内瑞拉石油？林剑表示，中方尊重委内瑞拉的主权独立，相信委内瑞拉政府将按照本国的宪法和法律妥善处理内部事务。中委的合作是主权国家之间的合作，受到国际法和两国法律的保护。无论委内瑞拉的政局如何变化，中方深化两国各领域务实合作的意愿不会改变，中方在委内瑞拉的合法利益也将依法受到保护。（北京日报）",
@@ -968,12 +1016,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时12分"
+        },
+        {
+          "title": "特朗普一天之内威胁多国",
+          "url": "https://www.toutiao.com/trending/7591841454150913599/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股贵金属矿商盘前上涨，金罗斯黄金(KGC.N)涨2%，AngloGold涨1.4%，巴里克黄金(GOLD.N)、纽蒙特矿业(NEM.N)均涨超2%。",
@@ -1013,11 +1072,12 @@
           "url": "https://wallstreetcn.com/livenews/3030912",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时29分]"
         },
         {
           "title": "美股盘前，美股存储芯片股走高，美光科技涨超3%，西部数据涨超2%，SanDisk涨超2%，台积电涨近3.5%，AMD涨超2%。美国石油股盘前集体走高，雪佛龙盘前一度上涨近10%，康菲石油涨超8％，埃克森美孚涨超3%。",
@@ -1032,15 +1092,37 @@
           "time_info": "[17时38分 ~ 18时32分]"
         },
         {
+          "title": "美股指期货上扬，美股盘前石油股集体走高，伦铜触及1.3万美元创新高，委内瑞拉动荡下金银齐涨，原油转涨",
+          "url": "https://wallstreetcn.com/articles/3762559",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-05）",
           "url": "https://flash.jin10.com/detail/20260105212007984800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
+        },
+        {
+          "title": "2025年美股IPO成绩单：总体表现差强人意 基本面重归估值核心",
+          "url": "https://flash.jin10.com/detail/20260105221450191800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "中金2026展望：泡沫加速！美国“财政主导”利好中美股市和金银铜",
@@ -1052,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
+        },
+        {
+          "title": "美股三大期指涨跌不一 科技巨头、能源股整体走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2248463",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "分析师：委内瑞拉局势或成美股美元长期利好",
@@ -1076,13 +1169,24 @@
           "time_info": "19时25分"
         },
         {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3030921",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
           "title": "多邻国美股盘前涨超4%。此前美国银行将多邻国评级从中性上调至买入。",
           "url": "https://wallstreetcn.com/livenews/3030899",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
@@ -1174,6 +1278,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)宣布为Google TV推出全新Gemini功能。",
+          "url": "https://flash.jin10.com/detail/20260105221438518800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        },
+        {
+          "title": "高通(QCOM.O)宣布扩大与谷歌(GOOG.O)长达十年的合作，聚焦汽车创新与人工智能驱动的移动出行技术。",
+          "url": "https://flash.jin10.com/detail/20260105220255157800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -1223,7 +1355,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时45分"
         }
