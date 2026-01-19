@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T21:53:09.718076+08:00",
-  "total_titles_processed": 1654,
+  "generated_at": "2026-01-19T22:33:57.767558+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 83,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时09分 ~ 21时53分]"
+          "appearance_count": 15,
+          "time_info": "[10时09分 ~ 22时33分]"
         },
         {
           "title": "周末要闻汇总：证监会立案调查容百科技重大合同公告涉嫌误导性陈述；特朗普因格陵兰岛向欧洲8国加税",
@@ -79,8 +79,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时15分 ~ 21时53分]"
+          "appearance_count": 14,
+          "time_info": "[12时15分 ~ 22时33分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -131,8 +131,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时40分 ~ 21时53分]"
+          "appearance_count": 9,
+          "time_info": "[17时40分 ~ 22时33分]"
         },
         {
           "title": "联合国秘书长古特雷斯：（当被问及特朗普提出的和平委员会倡议时）会员国可以自由组成不同的团体。",
@@ -303,17 +303,6 @@
           "time_info": "12时15分"
         },
         {
-          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
-          "url": "https://wallstreetcn.com/livenews/3039803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "美国财长贝森特：特朗普致力于保障美联储的独立性。我们有四位出色的美联储主席候选人。认为参议院会对这四位候选人的任何一位当选感到满意。",
           "url": "https://flash.jin10.com/detail/20260118222345424800",
           "source": "金十数据",
@@ -479,6 +468,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时31分 ~ 04时28分]"
+        },
+        {
+          "title": "欧盟将召开紧急峰会应对特朗普“夺岛”关税",
+          "url": "https://wallstreetcn.com/livenews/3039803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时33分]"
         },
         {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
@@ -697,6 +698,18 @@
           "time_info": "[18时35分 ~ 19时27分]"
         },
         {
+          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
+          "url": "https://wallstreetcn.com/livenews/3039789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时53分 ~ 22时33分]"
+        },
+        {
           "title": "据报道，挪威首相获邀加入特朗普的加沙“和平委员会”。",
           "url": "https://wallstreetcn.com/livenews/3039760",
           "source": "华尔街见闻-快讯",
@@ -765,17 +778,6 @@
           "time_info": "14时46分"
         },
         {
-          "title": "研究显示特朗普关税96%成本由美国国内承担 如同对美国民众征收消费税",
-          "url": "https://wallstreetcn.com/livenews/3039789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
           "title": "据媒体报道，哈萨克斯坦表示，美国总统特朗普邀请哈萨克斯坦总统托卡耶夫加入“和平委员会”，托卡耶夫已同意。",
           "url": "https://flash.jin10.com/detail/20260119141358029800",
           "source": "金十数据",
@@ -807,6 +809,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "欧洲官员：特朗普希望在周四签署加沙协议。",
+          "url": "https://wallstreetcn.com/livenews/3039809",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
@@ -851,6 +864,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "欧洲官员：美国总统特朗普希望加沙在周四签署协议。",
+          "url": "https://flash.jin10.com/detail/20260119215503570800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
@@ -930,15 +954,37 @@
           "time_info": "17时40分"
         },
         {
+          "title": "荷兰经济大臣：特朗普在格陵兰岛问题上的表现不负责任。",
+          "url": "https://flash.jin10.com/detail/20260119215216307800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "德国总理默茨：我们知道，美国总统特朗普威胁要征收关税，但谈判也促使他放弃实施这些关税。这一直是我的策略，我将继续坚持这一策略。",
           "url": "https://flash.jin10.com/detail/20260119210126922800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时53分"
+        },
+        {
+          "title": "德国经济研究所IW：美国总统特朗普第二任期第一年，德国对美国的投资几乎腰斩。",
+          "url": "https://flash.jin10.com/detail/20260119215002234800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美媒：特朗普就职一周年满意度下降",
@@ -955,7 +1001,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -972,6 +1018,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时21分 ~ 13时35分]"
+        },
+        {
+          "title": "伊朗媒体说骚乱已致3700余人受伤",
+          "url": "https://wallstreetcn.com/livenews/3039822",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "法国总统办公室：法国总统马克龙将于中午召开国防和国家安全会议。会议将讨论格陵兰岛、叙利亚和伊朗。",
@@ -1148,6 +1205,17 @@
           "time_info": "[17时40分 ~ 21时02分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时52分 ~ 22时33分]"
+        },
+        {
           "title": "美股明日休市 金银油交易提前结束",
           "url": "https://flash.jin10.com/detail/20260118225633271800",
           "source": "金十数据",
@@ -1159,17 +1227,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时23分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股指期货走低，“马丁·路德·金纪念日”美股债休市，金银再创新高，铜价逼近13000",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 21时53分]"
         },
         {
           "title": "格陵兰引发美欧关税战风险，欧股大幅低开、美股期货下跌，金银再创新高，铜价逼近13000",
@@ -1292,6 +1349,23 @@
           "is_new": false,
           "appearance_count": 15,
           "time_info": "[00时31分 ~ 16时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌的Gemini业务销售额预计将飙升",
+          "url": "https://flash.jin10.com/detail/20260119221021907800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         }
       ]
     }
