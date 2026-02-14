@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-14T18:32:30.450354+08:00",
-  "total_titles_processed": 1278,
+  "generated_at": "2026-02-14T19:27:42.825113+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 55,
+      "match_count": 58,
       "titles": [
+        {
+          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
+          "url": "https://www.cls.cn/detail/2290201",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 19时27分]"
+        },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
@@ -63,18 +76,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时28分 ~ 18时32分]"
-        },
-        {
-          "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
-          "url": "https://www.cls.cn/detail/2290201",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 18时32分]"
         },
         {
           "title": "特朗普将访问委内瑞拉",
@@ -177,6 +178,17 @@
           "time_info": "[00时55分 ~ 01时42分]"
         },
         {
+          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
+          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时37分 ~ 19时27分]"
+        },
+        {
           "title": "【特朗普称将访问委内瑞拉】记者13日获悉，美国总统特朗普在接受媒体采访时被问及是否会访问委内瑞拉，他回应称：“我将访问委内瑞拉。”不过，他未提供任何进一步细节，包括具体时间或行程安排。（总台央视）",
           "url": "https://wallstreetcn.com/livenews/3055332",
           "source": "华尔街见闻-快讯",
@@ -188,17 +200,6 @@
           "time_info": "02时58分"
         },
         {
-          "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
-          "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时37分 ~ 18时32分]"
-        },
-        {
           "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
           "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
           "source": "凤凰网",
@@ -208,6 +209,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时55分 ~ 03时48分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-14）",
+          "url": "https://flash.jin10.com/detail/20260214184950680800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
+          "title": "意大利总理梅洛妮：意大利可能会按观察员身份加入（美国总统特朗普所谓的）和平委员会。",
+          "url": "https://wallstreetcn.com/livenews/3055527",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普：与委内瑞拉的关系尽可能地好。",
@@ -234,6 +257,32 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时45分 ~ 15时38分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
+          "url": "https://flash.jin10.com/detail/20260214165909253800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时27分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
+          "url": "https://flash.jin10.com/detail/20260214165831489800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时27分]"
         },
         {
           "title": "美国总统特朗普：我认为伊朗谈判将取得成功。",
@@ -288,18 +337,6 @@
           "time_info": "[03时48分 ~ 05时41分]"
         },
         {
-          "title": "美国国务卿鲁比奥：美国特使维特科夫和特朗普女婿库什纳很快就会安排一些会晤。",
-          "url": "https://flash.jin10.com/detail/20260214165909253800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
-        },
-        {
           "title": "美国总统特朗普：考虑为伊拉克挑选一位总理。",
           "url": "https://wallstreetcn.com/livenews/3055316",
           "source": "华尔街见闻-快讯",
@@ -324,18 +361,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时39分 ~ 18时32分]"
-        },
-        {
-          "title": "美国国务卿鲁比奥：美国总统特朗普表示他更倾向于与伊朗达成协议，但要做到这一点非常困难。",
-          "url": "https://flash.jin10.com/detail/20260214165831489800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "特朗普证实美军将向中东地区派出第二艘航母",
@@ -492,6 +517,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时58分 ~ 03时48分]"
+        },
+        {
+          "title": "特朗普：北约看在我的份上付了5%国防支出",
+          "url": "https://news.ifeng.com/c/8qk233NwWlu",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
         },
         {
           "title": "美国总统特朗普：美国是北约的重要成员。",
@@ -806,11 +842,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时39分 ~ 18时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时39分 ~ 19时27分]"
         },
         {
           "title": "美股七巨头收盘播报｜周五（2月13日），美国科技股七巨头（Magnificent 7）指数跌1.34%，报192.61点，本周累计下跌3.61%，整体持续走低。 亚马逊连续九个交易日下跌，创2006年以来最长连跌天数。 “超大”市值科技股指数跌0.75%，报364.30点，本周累跌2.65%。",
@@ -906,11 +943,12 @@
             12,
             9,
             8,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时45分 ~ 18时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时45分 ~ 19时27分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -1023,7 +1061,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美方代表团将于17日与伊朗会晤",
@@ -1049,6 +1087,17 @@
           "time_info": "[14时53分 ~ 18时32分]"
         },
         {
+          "title": "乌克兰总统泽连斯基：必须立即对伊朗政权采取行动。",
+          "url": "https://flash.jin10.com/detail/20260214191812340800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时27分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：会见了伊朗反对派人物巴列维。",
           "url": "https://flash.jin10.com/detail/20260214002952856800",
           "source": "金十数据",
@@ -1065,22 +1114,24 @@
           "url": "https://flash.jin10.com/detail/20260214171426770800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "加拿大政府网站：加拿大宣布对伊朗实施更多制裁。",
           "url": "https://flash.jin10.com/detail/20260214171329618800",
           "source": "金十数据",
           "ranks": [
-            12
+            12,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时27分]"
         },
         {
           "title": "美方代表团将于17日与伊朗方面会晤",
@@ -1122,6 +1173,34 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "DeepSeek春节再扔王炸？最新披露",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时50分 ~ 19时27分]"
+        },
+        {
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8,
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时28分 ~ 19时27分]"
+        },
+        {
           "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
           "url": "https://www.zhihu.com/question/2005557043939993512",
           "source": "知乎",
@@ -1136,34 +1215,6 @@
           "time_info": "[00时55分 ~ 07时36分]"
         },
         {
-          "title": "DeepSeek春节再扔王炸？最新披露",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%98%A5%E8%8A%82%E5%86%8D%E6%89%94%E7%8E%8B%E7%82%B8%EF%BC%9F%E6%9C%80%E6%96%B0%E6%8A%AB%E9%9C%B2",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时50分 ~ 18时32分]"
-        },
-        {
-          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时28分 ~ 18时32分]"
-        },
-        {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
           "url": "https://wallstreetcn.com/articles/3765730",
           "source": "华尔街见闻",
@@ -1173,8 +1224,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 19时27分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -1188,8 +1239,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 18时32分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 19时27分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -1242,8 +1293,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时36分 ~ 18时32分]"
+          "appearance_count": 11,
+          "time_info": "[07时36分 ~ 19时27分]"
         },
         {
           "title": "中国持续减持美债意味着什么",
@@ -1259,6 +1310,18 @@
           "time_info": "[12时45分 ~ 15时38分]"
         },
         {
+          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
+          "url": "https://wallstreetcn.com/articles/3765719",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时37分 ~ 19时27分]"
+        },
+        {
           "title": "两年期美债收益率在美国CPI通胀数据发布日创2022年以来新低，中长期收益率本周跌约16个基点",
           "url": "https://wallstreetcn.com/livenews/3055361",
           "source": "华尔街见闻-快讯",
@@ -1270,18 +1333,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时41分 ~ 07时36分]"
-        },
-        {
-          "title": "能源、必选消费和美债领涨2026！华尔街的“AI交易”被“AI颠覆”了",
-          "url": "https://wallstreetcn.com/articles/3765719",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时37分 ~ 18时32分]"
         },
         {
           "title": "美国通胀降温，美股指涨跌互现，美债收益率走低，原油日内跌近1%",
