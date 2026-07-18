@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-18T10:48:05.035401+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-07-18T13:32:11.391220+08:00",
+  "total_titles_processed": 941,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 59,
+      "match_count": 69,
       "titles": [
         {
           "title": "伊朗发射巡航导弹打击美军舰艇",
@@ -13,22 +13,24 @@
           "source": "凤凰网",
           "ranks": [
             4,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时57分 ~ 10时48分]"
+          "appearance_count": 7,
+          "time_info": "[05时57分 ~ 13时32分]"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
           "url": "https://news.ifeng.com/c/8uqpdYcN3Nl",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时32分]"
         },
         {
           "title": "伊朗称击落一架美军MQ-9无人机",
@@ -97,9 +99,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，针对美国在谢赫伊萨空军基地的战斗机设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718130947273800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
@@ -122,17 +135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
-        },
-        {
-          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
-          "url": "https://flash.jin10.com/detail/20260718103528310800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：知情人士称，伊朗革命卫队在霍尔木兹海峡袭击了一艘船只。",
@@ -233,6 +235,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时56分 ~ 10时48分]"
+        },
+        {
+          "title": "据约旦通讯社：约旦武装部队表示，拦截了十枚来自伊朗的导弹。",
+          "url": "https://flash.jin10.com/detail/20260718103528310800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时32分]"
         },
         {
           "title": "伊朗交通基础设施遭美军袭击",
@@ -400,6 +414,30 @@
           "time_info": "[00时18分 ~ 02时09分]"
         },
         {
+          "title": "美军称结束第七晚对伊朗打击行动",
+          "url": "https://wallstreetcn.com/livenews/3135947",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时32分]"
+        },
+        {
+          "title": "伊朗称袭击位于科威特和约旦的美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135944",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时48分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗发射巡航导弹打击美军舰艇",
           "url": "https://wallstreetcn.com/livenews/3135904",
           "source": "华尔街见闻-快讯",
@@ -410,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时57分 ~ 06时55分]"
+        },
+        {
+          "title": "伊朗称若美继续袭击伊朗将转向进攻",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E8%8B%A5%E7%BE%8E%E7%BB%A7%E7%BB%AD%E8%A2%AD%E5%87%BB%E4%BC%8A%E6%9C%97%E5%B0%86%E8%BD%AC%E5%90%91%E8%BF%9B%E6%94%BB%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "LS Power：美国电力市场基本不受伊朗战争推高油价影响",
@@ -423,6 +472,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，若领土被用于对伊朗的攻击，驻有美国军队的国家应预期“相应的回应”。",
+          "url": "https://flash.jin10.com/detail/20260718122202420800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗第一副总统：任何侵犯伊朗领土的行为都将遭到坚决、出其不意且超常规的回应。",
           "url": "https://flash.jin10.com/detail/20260718012216809800",
           "source": "金十数据",
@@ -432,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时09分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队表示，在科威特针对美国军方设施进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718122117595800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
@@ -445,15 +516,15 @@
           "time_info": "04时09分"
         },
         {
-          "title": "美军称结束第七晚对伊朗打击行动",
-          "url": "https://wallstreetcn.com/livenews/3135947",
-          "source": "华尔街见闻-快讯",
+          "title": "科威特军方表示，科威特目前正在拦截从伊朗发射的导弹和无人机。",
+          "url": "https://flash.jin10.com/detail/20260718121106633800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时48分"
+          "time_info": "13时32分"
         },
         {
           "title": "卡塔尔外交部：伊朗必须立即全面停止所有威胁地区安全与稳定的军事行动和侵略行为，避免任何扩大升级范围的行为，认真重返对话与谈判轨道，并恪守通过外交努力达成的谅解。",
@@ -478,17 +549,6 @@
           "time_info": "00时18分"
         },
         {
-          "title": "伊朗称袭击位于科威特和约旦的美军基地",
-          "url": "https://wallstreetcn.com/livenews/3135944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时48分"
-        },
-        {
           "title": "卡塔尔外交部：伊朗对这些侵略行为及其引发的所有后果和影响负有全部法律责任。",
           "url": "https://flash.jin10.com/detail/20260717234208634800",
           "source": "金十数据",
@@ -506,9 +566,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "伊朗亮第二把锁，油价为何只涨了一轮？",
+          "url": "https://flash.jin10.com/detail/20260718120203545800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "卡塔尔外交部：卡塔尔以最强烈言辞谴责伊朗对其领土及若干兄弟国家领土的新一轮侵略。",
@@ -528,9 +599,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://wallstreetcn.com/livenews/3135958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗最高领袖顾问：若美军继续行动，伊朗或转入全面进攻阶段",
@@ -550,7 +632,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -561,7 +643,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -577,6 +659,17 @@
           "time_info": "00时18分"
         },
         {
+          "title": "伊朗国家电视台援引伊朗军方的话称，伊朗在巴林针对美国军方资产和燃料罐进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260718112529599800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国的袭击持续数天，伊朗将进入全面进攻行动阶段。",
           "url": "https://flash.jin10.com/detail/20260718030924829800",
           "source": "金十数据",
@@ -586,6 +679,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时09分"
+        },
+        {
+          "title": "美国官员：伊朗向沙特美军基地发射导弹",
+          "url": "https://flash.jin10.com/detail/20260718110048188800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗最高领袖顾问雷扎伊：如果美国人占领伊朗境内任何地点，我们可能会进入进攻性战争阶段，而不再只是防御性战争。",
@@ -605,7 +709,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -616,7 +720,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -638,9 +742,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
+        },
+        {
+          "title": "伊朗电力与海水淡化设施遭袭",
+          "url": "https://flash.jin10.com/detail/20260718104201601800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗霍尔木兹甘省副省长表示，通信基础设施正在修复中。",
@@ -649,7 +764,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -660,7 +775,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -701,7 +816,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "中方驳斥特朗普“中国干预美国大选”论调",
@@ -832,6 +947,50 @@
           "time_info": "[05时57分 ~ 07时56分]"
         },
         {
+          "title": "特朗普支持“兄终妹及”：任期结束后继续参选",
+          "url": "https://news.ifeng.com/c/8ur9XDi7eVj",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "特朗普再谈巴洛贡红牌事件",
+          "url": "https://news.ifeng.com/c/8ur69Rbmt2A",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "美军连炸伊朗5座桥，伊朗要求封锁曼德海峡！中东多国遭袭，特朗普想扩大打击，施压伊朗重返谈判",
+          "url": "https://wallstreetcn.com/articles/3777193",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
+          "title": "分析｜轰炸、备忘录双双失效，特朗普还有C计划吗？专家：美国已陷入“战略死胡同”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33605316",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
+        },
+        {
           "title": "加拿大野火殃及美国，特朗普称要用关税来支付",
           "url": "https://flash.jin10.com/detail/20260718033109369800",
           "source": "金十数据",
@@ -904,7 +1063,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时48分"
         },
@@ -934,8 +1093,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
+          "url": "https://www.cls.cn/detail/2430055",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[06时55分 ~ 13时32分]"
+        },
         {
           "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
           "url": "https://wallstreetcn.com/articles/3777075",
@@ -959,28 +1131,16 @@
           "time_info": "[00时18分 ~ 05时57分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 费城半导体指数进入熊市 存储板块冲高回落",
-          "url": "https://www.cls.cn/detail/2430055",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时55分 ~ 10时48分]"
-        },
-        {
           "title": "美股三大指数全线下挫",
           "url": "https://www.douyin.com/hot/2575548",
           "source": "抖音",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时47分 ~ 10时48分]"
+          "appearance_count": 4,
+          "time_info": "[10时47分 ~ 13时32分]"
         },
         {
           "title": "美股存储芯片指数本周跌超17%，较收盘历史最高位已回撤超31%",
@@ -1033,6 +1193,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时57分 ~ 07时56分]"
+        },
+        {
+          "title": "美股芯片股，距熊市仅一步之遥",
+          "url": "https://wallstreetcn.com/articles/3777197",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 13时32分]"
         },
         {
           "title": "美股半导体指数跌入熊市",
@@ -1144,11 +1315,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时32分]"
         }
       ]
     },
@@ -1197,11 +1369,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 10时48分]"
+          "appearance_count": 5,
+          "time_info": "[07时56分 ~ 13时32分]"
         }
       ]
     },
